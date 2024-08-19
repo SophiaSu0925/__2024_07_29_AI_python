@@ -1,4 +1,5 @@
 #.py是專案檔
+#練習4
 
 while True: #不知道次數
     try:
