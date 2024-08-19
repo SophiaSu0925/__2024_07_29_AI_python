@@ -1,3 +1,5 @@
+#.py是專案檔
+
 while True: #不知道次數
     try:
         name=str(input("請輸入姓名"))
