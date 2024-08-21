@@ -1,4 +1,4 @@
-import widget #套件package
+import widget  #套件package
 while True:
     try:
         name = input("請輸入姓名: ")
